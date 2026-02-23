@@ -1,6 +1,7 @@
 HireConnect 🚀
 
 Live Demo: 🔗 https://hireconnect-frontend.onrender.com/
+
 Overview
 
 HireConnect is a web-based platform that connects job seekers with potential employers seamlessly. Job seekers can browse and apply to jobs, while employers can post job listings and manage applications, all in one user-friendly platform.
