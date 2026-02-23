@@ -31,7 +31,7 @@ Edit company profile and job details
 
 Tech Stack
 
-Frontend: React, Tailwind CSS
+Frontend: React, Tailwind CSS, shadcn/ui
 
 Backend: Node.js, Express.js
 
@@ -42,6 +42,9 @@ Authentication: JWT (JSON Web Tokens)
 File Storage: Cloudinary
 
 State Management: Redux Toolkit
+
+API Testing: Postman
+
 
 Deployment: Render
 
