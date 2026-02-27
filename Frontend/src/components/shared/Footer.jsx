@@ -42,10 +42,10 @@ const Footer = () => {
           {/* Logo + Copyright */}
           <div className="text-center md:text-left">
             <h2 className="text-xl font-bold text-white tracking-wide">
-              Talent<span className="text-violet-500">Hunt</span>
+              Hire<span className="text-violet-500">Connect</span>
             </h2>
             <p className="text-sm text-gray-400 mt-2">
-              © 2025 Talent Hunt. All rights reserved.
+              © 2025 Hire Connect. All rights reserved.
             </p>
           </div>
 
