@@ -144,7 +144,7 @@ const Navbar = () => {
                 {/* Logo */}
                 <div>
                     <h1 className='text-2xl font-bold tracking-wide'>
-                        Talent<span className='text-violet-500'>Hunt</span>
+                        Hire<span className='text-violet-500'>Connect</span>
                     </h1>
                 </div>
 
